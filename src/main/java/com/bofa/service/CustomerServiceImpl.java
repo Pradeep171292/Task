@@ -8,7 +8,7 @@ public class CustomerServiceImpl implements CustomerService{
 	
 	@Override
 	public List<String> addCustomer(String Name) {
-		System.out.println("-----------Adding customer------------------");
+		System.out.println("-----------Adding customer ------------------");
 		// TODO Auto-generated method stub
 		customer.add("pradeep");
 		customer.add("gediya");
